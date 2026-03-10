@@ -1,14 +1,22 @@
+<!-- Animated Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Atharva%20Randive&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Atharva Randive</h1>
 
 <h3 align="center">🚀 AI & Data Science Student | Machine Learning Enthusiast</h3>
 
+<!-- Typing Animation -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer+in+Progress;Python+Developer;Data+Science+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer+in+Progress;Python+Developer;Building+AI+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
 📍 Pune, India  
@@ -33,8 +41,15 @@ I enjoy solving real-world problems using AI 🚀
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/atharva-randive-8447a63a4"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:atharvarandive50@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+
+<a href="https://www.linkedin.com/in/atharva-randive-8447a63a4">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:atharvarandive50@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
@@ -42,20 +57,24 @@ I enjoy solving real-world problems using AI 🚀
 # 🧠 Tech Stack
 
 ### Programming
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ### Data Science
+
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 
 ### Machine Learning
+
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
@@ -81,19 +100,37 @@ I enjoy solving real-world problems using AI 🚀
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Atharva-tech2004">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-tech2004&repo=water-potability-ml&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Atharva-tech2004">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-tech2004&repo=fraud-detection-system&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Atharva-tech2004/Atharva-tech2004/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🚀 Featured Projects
+# 📊 Contribution Graph
 
-⭐ **Water Potability Prediction**  
-Machine learning model to predict drinking water safety.
+[![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharva-tech2004&theme=tokyo-night)](https://github.com/Atharva-tech2004)
 
-⭐ **Women Safety Application**  
-Emergency alert system with real-time location tracking.
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Atharva-tech2004&theme=tokyonight)
 
 ---
 
