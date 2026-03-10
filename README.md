@@ -92,12 +92,6 @@ I enjoy solving real-world problems using AI 🚀
 ⭐ **Water Potability Prediction**  
 Machine learning model to predict drinking water safety.
 
-⭐ **Fraud Detection System**  
-Real-time fraud detection using big data technologies.
-
-⭐ **AI Bias Detection Model**  
-Analyzed the impact of biased training datasets.
-
 ⭐ **Women Safety Application**  
 Emergency alert system with real-time location tracking.
 
