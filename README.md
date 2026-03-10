@@ -27,7 +27,7 @@ I love solving real-world problems using AI 🚀
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([Atharva Randive](https://www.linkedin.com/in/atharva-randive-8447a63a4?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/atharva-randive-8447a63a4?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:atharvarandive50@gmail.com)
 
