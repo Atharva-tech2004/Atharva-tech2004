@@ -94,7 +94,7 @@ I enjoy solving real-world problems using AI 🚀
 
 ---
 
-# 📈 Top Languages
+## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-tech2004&layout=compact&theme=tokyonight)
 
