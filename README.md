@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer+in+Progress;Python+Developer;Building+AI+Projects&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Student;Aspiring+Machine+Learning Engineer;Python+Developer;Building+AI+Projects&center=true&width=500&height=45">
 </p>
 
 ---
