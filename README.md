@@ -19,7 +19,7 @@
 # 🧑‍💻 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-📍 Pune, India  
+📍 Maharashtra , India  
 
 🔭 Currently working on  
 Machine Learning & Data Science Projects
