@@ -176,5 +176,4 @@ I enjoy solving real-world problems using AI 🚀
 
 # 💡 Quote
 
-> “Programs must be written for people to read.”  
-> — Harold Abelson
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteCategory=programming)
